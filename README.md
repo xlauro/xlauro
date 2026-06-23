@@ -1,6 +1,6 @@
 # 👋 Lauro Henrique Moreira Santos
 
-**🧑‍💻 Software Engineer · Java & .NET · TypeScript**  
+**🧑‍💻 Software Engineer · Java · TypeScript · Python**  
 📍 Rio de Janeiro, Brasil
 
 ---
@@ -19,7 +19,7 @@ Estou sempre estudando e acompanhando o que evolui na área. Não porque "é obr
 
 ## 🛠️ O que faço no dia a dia
 
-- ☕ Desenvolvimento backend com **Java (Spring Boot)** e **C# (.NET)**
+- ☕ Desenvolvimento backend com **Java (Spring Boot)**, **Typescript** e **Python**
 - 🔗 Construção e manutenção de **APIs REST**
 - 🗄️ Modelagem de dados e integração com bancos relacionais e não-relacionais
 - 📐 Aplicação de **boas práticas de arquitetura** — porque software é um trabalho coletivo e de longo prazo
@@ -30,19 +30,11 @@ Estou sempre estudando e acompanhando o que evolui na área. Não porque "é obr
 
 | Área | Tecnologias |
 |---|---|
-| 🔤 **Linguagens principais** | Java, C# |
+| 🔤 **Linguagens principais** | Java, Typescript, Python |
 | 🌐 **Web** | TypeScript, Node.js |
-| ⚙️ **Frameworks** | Spring Boot, ASP.NET Core, Hibernate, Entity Framework |
+| ⚙️ **Frameworks** | Spring Boot, Hibernate, Bun, etc, etc, etc |
 | 🗃️ **Bancos de dados** | SQL Server, PostgreSQL, MySQL, MongoDB |
 | 🧰 **Ferramentas** | Git, GitHub, Docker |
-
----
-
-## 🎯 O que estou buscando
-
-Quero atuar em equipes onde a qualidade técnica seja levada a sério — onde arquitetura, legibilidade e manutenibilidade sejam valores compartilhados, não só promessas de onboarding.
-
-Tenho interesse em ambientes onde posso contribuir com o que já sei enquanto sigo aprendendo. 🌱 Não busco um lugar para "só executar tarefas"; busco um lugar onde o trabalho de cada um realmente importa para o resultado final.
 
 ---
 
